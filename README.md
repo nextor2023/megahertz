@@ -1,0 +1,2 @@
+# megahertz
+proyecto a.prog
